@@ -9,11 +9,11 @@ int main()
 {
     if(a1%7==0)
     {
-        cout<<"yes";
+    cout<<"yes";
     }
     else
     {
-        cout<<"no";
-    }
+    cout<<"no";
+}
 }
 }
