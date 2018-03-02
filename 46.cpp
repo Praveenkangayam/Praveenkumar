@@ -2,9 +2,9 @@
 using namespace std;
 int main()
 {
-	int n,sum;
+	int m,sum;
 	cout<<"Enter number ";
-	cin>>n;
-sum=n+1;
+	cin>>m;
+sum=m+1;
 cout<<sum;
 }
