@@ -2,10 +2,10 @@
 using namespace std;
 int main()
 {
-int num,a,z;
-cout<<"enter the numeric values:";
-cin>>num;
-if(num<a||num>z)
+   int num,a,z;
+  cout<<"enter the numeric values:";
+  cin>>num;
+  if(num<a||num>z)
 {
   cout<<"yes,it is numeric";
 }
